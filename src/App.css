@@ -1,3 +1,14 @@
+@import url(//font.elice.io/EliceDigitalBaeum.css);
+@font-face {
+  font-family: 'EliceDigitalBaeum_Bold';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/EliceDigitalBaeum_Bold.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+.head {
+  font-family: 'EliceDigitalBaeum_Bold';
+}
 .App {
   text-align: center;
 }
