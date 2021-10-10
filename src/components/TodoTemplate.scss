@@ -1,18 +1,17 @@
 .TodoTemplate {
-  width: 512px;
-  margin-left: auto;
+  width: 600px;
+  margin-left: 60px;
   margin-right: auto;
-  margin-top: 6rem;
-  border-radius: 4px;
   overflow: hidden;
   .app-title {
-    background: #22b8cf;
-    color: white;
+    background: white;
+    color: black;
     height: 4rem;
     font-size: 1.5rem;
     display: flex;
+    padding-left: 1rem;
     align-items: center;
-    justify-content: center;
+    justify-content: left;
     font-family: 'EliceDigitalBaeum_Bold';
   }
   .content {
