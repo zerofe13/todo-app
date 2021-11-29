@@ -1,7 +1,11 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import styled from 'styled-component';
 import { BsCheck2Square, BsCalendar3 } from 'react-icons/bs';
 import './Menu.scss';
+
+// const MenuBlock = styled.div`
+
+// `;
 const Menu = () => {
   return (
     <ul className="VirticalNavBar">
